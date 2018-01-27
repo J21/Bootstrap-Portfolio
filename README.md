@@ -1,1 +1,1 @@
-# Bootstrap-Portfolio
+Hello! This portfolio is relatively similar to the basic portfolio. The difference here is that this portfolio uses bootstrap, instead of css. I also made this portfolio responsive as well, like the responsive portfolio featured in my github page. Check it out!
